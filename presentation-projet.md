@@ -86,7 +86,8 @@ Un tableau de correspondance complet (52 ports) a été créé pour assurer la t
 | **1-4** | B1 | 1(u), 2, 44 |
 
 *(tableau complet en annexe)*
-
+> [!IMPORTANT]
+> A finir de corriger
 ### 2 – Identification des VLANs existants
 
 Une analyse de la configuration a été réalisée via **LibreNMS** afin d'identifier les VLANs utilisés, les ports associés (access / trunk) et les équipements connectés.

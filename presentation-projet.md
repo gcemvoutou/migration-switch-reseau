@@ -65,7 +65,6 @@ J'ai mené ce projet **en autonomie complète**, de bout en bout, sur la base d'
 - **Sécurisation du switch** (mot de passe manager, VLAN de management dédié)
 - **Bascule physique et recette réseau** avant mise en production (tests de ping)
 - **Mise à jour de LibreNMS et de la documentation technique**
-- **Gestion du planning d'intervention** en tenant compte des horaires d'ouverture du cinéma au public
 
 ## Déroulement du projet
 

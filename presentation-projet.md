@@ -54,9 +54,6 @@ Objectifs fixés par l'administrateur système réseau :
 | 13/08/26 | Réinstallation de la banque d'accueil |
 | Début 09/26 | Clôture prévue du projet |
 
-> [!NOTE]
-> En parallèle, l'accès Internet du site migre d'un lien ADSL vers la fibre entre avril et juin 2026 — un chantier mené par ailleurs, mentionné ici pour le contexte réseau global du site.
-
 ## Ma contribution
 
 J'ai mené ce projet **en autonomie complète**, de bout en bout, sur la base d'un cahier des charges transmis par l'administrateur système réseau :

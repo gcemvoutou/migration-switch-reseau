@@ -74,6 +74,8 @@ Avant toute intervention, j'ai réalisé un repérage complet du câblage exista
 
 Un tableau de correspondance complet (52 ports) a été créé pour assurer la traçabilité de cette réorganisation.
 
+> [!IMPORTANT]
+> A mettre a jour avec le nouveau .
 **Extrait du repérage :**
 
 | Port Switch | Prise murale | VLAN(s) actifs |

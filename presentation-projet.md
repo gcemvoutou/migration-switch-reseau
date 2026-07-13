@@ -31,6 +31,7 @@ Cette migration a aussi été l'occasion d'**harmoniser le plan de VLANs** du si
 Le projet s'inscrit par ailleurs dans le **réaménagement physique de la banque d'accueil** du cinéma, avec une contrainte d'exploitation forte : aucune intervention n'était possible pendant les horaires d'ouverture au public, afin d'éviter tout risque de coupure de service.
 
 **Ancien équipement :** Alcatel-Lucent OS 6.6.3.509.R01 — 52 ports (26×2) — IP de management `192.168.198.233`
+
 **Nouveau matériel :** Switch Aruba 2530, nommé `LVS_197` — IP `192.168.198.197` / masque `255.255.255.0` / passerelle `192.168.198.1`
 
 ## Objectifs du projet
